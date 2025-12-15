@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <h1 align="center">
 The Official MongoDB Guide</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/the-official-mongodb-guide-first-edition/9781837021970"> The Official MongoDB Guide</a>, published by Packt.
