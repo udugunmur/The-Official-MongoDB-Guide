@@ -189,3 +189,4 @@ Además de proporcionar una infraestructura robusta y escalable para sus desplie
 También cubriremos cómo las nuevas características de MongoDB 8.0 le permitirán crear aplicaciones más rápidas y resilientes. En el próximo capítulo, aprenderá cómo la replicación y el *sharding* pueden ayudarle a construir una base de datos confiable, disponible y eficiente para las necesidades de su aplicación.
 
 ¡Feliz desarrollo!
+
